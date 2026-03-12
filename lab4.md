@@ -1,3 +1,4 @@
+```
 flowchart 
 
 title[<em>Блок ПРИБОР</em>]
@@ -60,3 +61,4 @@ style Прибор fill:#e8f4fd;
 style Мастер fill:#e8f4fd;
 style title fill:yellow,stroke:red;
 style h13 fill:yellow,stroke:red;
+```
